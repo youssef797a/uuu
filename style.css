@@ -1,0 +1,44 @@
+.navigation {
+  list-style-type: none;
+  padding: 0;
+  overflow: hidden;
+  color: black;
+  text-align: center;
+}
+
+h2 {
+  color: yellow;
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h3 {
+  color: yellow;
+  text-align: center;
+
+
+}
+
+li {
+  display: inline;
+  background-color: yellow;
+  padding: 14px 16px;
+  text-align: center;
+
+}
+
+body {
+
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+  background: url("img/background.jpeg");
+  color: beige;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+img{
+
+  margin-left: 45%;
+  margin-right: auto;
+  width: 10%;
+  height: 10%;
+}
